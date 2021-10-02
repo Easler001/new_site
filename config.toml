@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://fervent-mclean-d39a94.netlify.app/"
 languageCode = "ja-ja"
 title = "Easlerのぶろぐ"
 theme = "hugo-lamp"
@@ -7,7 +7,7 @@ googleAnalytics = "UA-XXX-X"          # Google Analytics UA number
 [params]
   mainSections = ["posts"]
   subtitle = "とりあえず記事を書くよ"
-  author = "Huy Nguyen"
+  author = "Easler"
   logo = "/img/avatar.jpg"
   description = "A light responsive Hugo AMP theme for blogger"
   paginate = 10
@@ -26,7 +26,7 @@ googleAnalytics = "UA-XXX-X"          # Google Analytics UA number
   #email = "name@domain.com"
   github = "Easler001"
   twitter = "a41908657"
-  linkedin = "linkedin_username"
+  #linkedin = "linkedin_username"
   #facebook = "facebook_username"
   #google = "googleplus_id_number"
   #instagram = "instagram_username"
