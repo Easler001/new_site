@@ -1,0 +1,14 @@
+---
+title: "Linux"
+author: "Author Name"
+cover: "/img/1.jpg"
+tags: ["tagA", "tagB"]
+date: 2021-10-02T15:57:29+09:00
+draft: true
+---
+
+Cut out summary from your post content here.
+
+<!--more-->
+
+The remaining content of your post.
